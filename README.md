@@ -1,1 +1,1 @@
-# Node.js Random Node Generator
+# Node.js Random Color Generator
