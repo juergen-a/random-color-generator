@@ -1,7 +1,7 @@
 // Enter arguments in the command line
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
+
 import argv from 'node:process';
-// Import module for coloring random colors
+// Import module for coloring random hex color strings
 import kuler from 'kuler';
 // Import module for random color generation
 import randomColor from 'randomcolor';
